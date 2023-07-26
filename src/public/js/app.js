@@ -15,7 +15,7 @@ msgForm.addEventListener('submit', handleSubmit);
 nickForm.addEventListener('submit', handleNickSubmit);
 
 
-
+ 
 // handlers
 function handleOpen() {
   console.log('connected to server');
